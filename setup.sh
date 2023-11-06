@@ -3,5 +3,5 @@
 sudo apt-get update &&
 sudo apt-get upgrade -y &&
 sudo apt-get install screen iperf3 curl mtr python-pip lft nmap -y &&
-sudo apt autoremove -y
+sudo apt autoremove -y &&
 rm setup.sh
